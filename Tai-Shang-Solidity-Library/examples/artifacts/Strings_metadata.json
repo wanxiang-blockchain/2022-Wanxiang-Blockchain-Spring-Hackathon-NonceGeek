@@ -1,0 +1,46 @@
+{
+	"compiler": {
+		"version": "0.8.7+commit.e28d00a7"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [],
+		"devdoc": {
+			"details": "String operations.",
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"examples/mapNFT.sol": "Strings"
+		},
+		"evmVersion": "london",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"examples/mapNFT.sol": {
+			"keccak256": "0xb918a4e931edaa473197a91fe04487ac54e157a05bf0916526584efe10a4c478",
+			"license": "MIT",
+			"urls": [
+				"bzz-raw://0bf6a6cb35cd45df987fc64f025152520c95a5ffca11d302e286a7c9c5a87278",
+				"dweb:/ipfs/QmPsPBLgT3Kfesv9btaCrfWmZFS7W3EWEmof4CbrFqA4We"
+			]
+		}
+	},
+	"version": 1
+}
